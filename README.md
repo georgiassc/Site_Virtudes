@@ -6,4 +6,5 @@ Este repositorio servira como uma forma de armazenamento dos arquivos e guião p
 
 A primeira coisa que setamos para o nosso site foi a identidade visual dele. Criamos uma imagem em png e como gostariamos que fosse o layout do nosso site. Segue a baixo a imagem: 
 
-![Site ](https://user-images.githubusercontent.com/98546640/160809092-8fcf10f7-c253-4fcb-9638-a2cab1d40398.png)
+![Site](https://user-images.githubusercontent.com/98546640/160848590-c2e6f293-2a1b-4830-b414-c760118f84c7.png)
+
