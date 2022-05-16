@@ -16,4 +16,7 @@ Segue a baixo uma imagem do site:
 Os codigos deste momento encontram-se na pasta: part 2. 
 
 Atualização dia 26/04:
-Até o momento ja fizemso mais alterações no site. A mais importante foi a organização do codigo para torna-lo mais eficiente! O nosso jogo "Angry Birtudes" apresentou diversas falhas durante o seu período de testes e poderá ficar fora do projeto final. Criamos também a nossa linha do tempo na paginba inicial onde contará toda a historia do Jardim! 
+Até o momento ja fizemos mais alterações no site. A mais importante foi a organização do codigo para torna-lo mais eficiente! O nosso jogo "Angry Birtudes" apresentou diversas falhas durante o seu período de testes e poderá ficar fora do projeto final. Criamos também a nossa linha do tempo na paginba inicial onde contará toda a historia do Jardim! 
+
+Atualização 16/05:
+A estetica do site esta cada vez mais bonita. Ainda é necessario alguns ajustes quanto ao html e fazer com que o site fique 100% responsivo. Até o momento, o maior problema é falta de conteúdo dentro dele!
