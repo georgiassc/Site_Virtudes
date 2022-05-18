@@ -25,3 +25,5 @@ A estetica do site esta cada vez mais bonita. Ainda é necessario alguns ajustes
 ![Captura de Tela (26)](https://user-images.githubusercontent.com/98546640/168796435-719e6272-d0ae-4cc7-a0f9-e425ae2d3c4b.png)
 ![Captura de Tela (27)](https://user-images.githubusercontent.com/98546640/168796436-1020314d-343f-4532-858b-2c8eef5cefb7.png)
 ![Captura de Tela (29)](https://user-images.githubusercontent.com/98546640/168796438-ce4ad0de-0ece-4934-abed-1618356d60e0.png)
+
+Os codigos deste momento encontram-se na pasta: part 3.
