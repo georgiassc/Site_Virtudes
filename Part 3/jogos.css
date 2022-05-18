@@ -1,0 +1,63 @@
+h1{
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center 
+}
+
+.jogos {
+	width: 940px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+.jogos li {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding: 30px 20px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 10px;
+}
+
+.jogos li:hover {
+	border-color: #56963f;
+	transform: scale(1.1);
+}
+
+.jogos h2 {
+	font-size: 20px;
+	font-weight: bold;
+	font-family: 'Press Start 2P', cursive;
+}
+
+.produto-descricao {
+	font-size: 18px;
+}
+
+
+.botaojogo{
+    font-size: 15px ;
+    background-color: #ddda2d;
+	font-family: 'Press Start 2P', cursive;
+    margin: 15px;
+    width: 95px;
+    height: 40px;
+	color: rgb(241, 35, 35);
+}
+
+footer {
+	text-align: center;
+	background-color: #475841;
+	padding: 20px 0;
+    margin-top: 30px;
+	line-height: 18px;
+}
+
+.copyright, .mensagems {
+	color: #FFFFFF;
+	font-size: 13px;
+	margin: 20px 0 0;
+}
