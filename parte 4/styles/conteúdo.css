@@ -1,0 +1,162 @@
+@media screen and (min-width: 0) {
+	.cartaz__imagem{
+		width: 100%;
+		display: flex;
+ 		justify-content: center;
+	}
+
+	.conteúdo__jardim{
+		padding: 20px;
+	}
+
+	.conteúdo__jardim--titulo{
+		color:  #475841 ;
+		margin-bottom: 0.1em;
+		font-family: 'Fascinate', cursive;
+		font-size: 30px;
+		
+	}
+
+	.conteúdo__jardim--texto{
+		color: black;
+		text-align: center;
+		margin: 3px;
+		font-size: 20px;
+		font-family: 'Anek Latin', sans-serif;
+	}
+}
+
+@media screen and (min-width: 770px) {
+	.cartaz{
+		padding-top: 30px;
+		align-items: center;
+    	margin: 0 10em;
+		display: table;
+	}
+	.cartaz__imagem{
+		width: 30%;
+		display: table-cell;
+		float: left;
+		margin: 30px;
+	}
+
+	.conteúdo__jardim{
+		padding: 2em;
+		display: table-cell;
+		width: 60%;
+		float: left;
+	}
+
+	.conteúdo__jardim--titulo {
+		color:  #475841 ;
+		margin-bottom: 0.1em;
+		font-family: 'Fascinate', cursive;
+		padding: 20px;
+		font-size: 60px;
+		text-align: center;
+		
+	}
+	
+	.conteúdo__jardim--texto{
+		color: #616161;
+		text-indent: 3%;
+		font-size: 21px;
+		font-family: 'Anek Latin', sans-serif;
+	}
+}
+
+
+@media screen and (min-width: 0) {
+	.conteúdo__imagem{
+		width: 35%;
+		display: flex;
+ 		justify-content: center;
+
+	}
+
+	.conteúdo__descrição--título {
+		color:  #475841 ;
+		text-align: center;
+		font-family: 'Fascinate', cursive;
+		padding: 20px;
+	}
+
+	.conteúdo__descrição--texto{
+		color: #000000;
+		text-align: center;
+		font-family: 'Anek Latin', sans-serif;
+		font-size: 20px;
+		margin: 3px;
+	}
+
+	.conteúdo__descrição--título__cartaz{
+		font-size: 18px;
+	}
+
+	.conteúdo__descrição--texto__cartaz{
+		font-size: 16px;
+		font-family: 'Anek Latin', sans-serif;
+		text-align: center;
+	}
+
+}
+
+@media screen and (min-width: 770px) {
+.conteúdo{
+    padding: 0;
+	align-items: center;
+    margin: 0 10em;
+	display: table;
+}
+
+.conteúdo__imagem{
+	width: 35%;
+	display: table-cell;
+}
+
+.conteúdo__imagem--direita{
+	float: right;
+}
+
+.conteúdo__imagem--esquerda{
+	float: left;
+}
+
+.conteúdo__descrição {
+    padding: 2em;
+	display: table-cell;
+	width: 65%;
+}
+
+.conteúdo__descrição--direita{
+	float: right;
+}
+
+.conteúdo__descrição--esquerda{
+	float: left;
+}
+
+.conteúdo__descrição--título {
+    color:  #475841 ;
+    margin-bottom: 0.1em;
+	font-family: 'Fascinate', cursive;
+	padding: 20px;
+}
+
+.conteúdo__descrição--texto{
+    color: #616161;
+	text-indent: 3%;
+	font-family: 'Anek Latin', sans-serif;
+}
+
+.conteúdo__descrição--título__cartaz{
+	font-size: 30px;
+}
+
+.conteúdo__descrição--texto__cartaz{
+	font-size: 20px;
+}
+
+}
+
+

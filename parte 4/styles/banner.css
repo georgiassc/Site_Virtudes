@@ -1,0 +1,91 @@
+.banner{
+	position: relative;
+}
+
+.banner__imagem{
+	width: 100%;
+}
+
+.banner__titulo{
+	font-family: 'Pacifico', cursive;
+	color: white;
+	position: absolute;
+	left: 50%;
+	text-shadow: 0 4px 4px #616161;
+	top: 50%;
+	text-align: center;
+	transform: translate(-50%,-50%);
+	width: 100%;
+}
+
+.sobre{
+    background-color:  linear-gradient(left, #475841, #ffffff);
+    text-align: center;
+}
+
+.sobre__titulo{
+	color: #475841;
+	font-family: 'Poppins', sans-serif;
+
+}
+
+.sobre__descriçao{
+	color: #292929;
+	font-family: 'Poppins', sans-serif;
+    padding: 10px;
+}
+
+@media screen and (min-width: 0) {
+	.banner__titulo{
+		font-size: 2rem;
+	}
+
+	.sobre{
+		padding: 2.5rem 1rem;
+	}
+
+	.sobre__titulo{
+		font-size: 2rem;
+	}
+	
+	.sobre__descriçao{
+		font-size: 0.75rem;
+	}
+
+}
+
+@media screen and (min-width: 700px) {
+	.banner__titulo{
+		font-size: 7rem;
+	}
+	
+	.sobre{
+		padding: 2.5rem;
+	}
+
+	.sobre__titulo{
+		font-size: 5rem;
+	}
+
+	.sobre__descriçao{
+		font-size: 1.00rem;
+	}
+
+}
+
+figure { width: 90%; min-width: 17.5em; margin:0 auto;}
+
+.boxVideo {
+    position: relative;
+    padding-bottom: 56.25%; 
+    padding-top: 25px;
+    height: 0;
+    margin:0 auto;
+}
+.boxVideo iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
